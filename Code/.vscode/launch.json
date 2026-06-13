@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kamruzzamankhanalve/Documents/4-2 semester/CSE 4201 Computer Graphics/CSE 4202/Raster_Clip_Studio_Submission/Code",
+      "program": "/Users/kamruzzamankhanalve/Documents/4-2 semester/CSE 4201 Computer Graphics/CSE 4202/Raster_Clip_Studio_Submission/Code/build/Debug/outDebug"
+    }
+  ]
+}

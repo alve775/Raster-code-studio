@@ -1,0 +1,13 @@
+# Report files
+Report/
+*.pdf
+
+# Build files
+*.o
+*.out
+*.exe
+Code/raster_clip_studio
+Code/raster_clip_studio.exe
+
+# macOS
+.DS_Store
